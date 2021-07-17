@@ -1,0 +1,21 @@
+.Profile {
+}
+
+.buttonsContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.table {
+  width: 400px;
+  margin-bottom: 10px;
+}
+
+.card {
+  margin: 0 !important;
+}
+
+.getUsersBtn {
+  margin: 25px;
+}

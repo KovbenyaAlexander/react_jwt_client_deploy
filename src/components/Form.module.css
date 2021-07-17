@@ -1,0 +1,14 @@
+.formWrapper {
+  width: 600px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.buttonsWrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  margin: 0 !important;
+}
