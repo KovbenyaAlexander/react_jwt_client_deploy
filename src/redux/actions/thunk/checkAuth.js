@@ -1,7 +1,7 @@
 import { setAuth, setUser, setLoadingStatus } from "../actions";
 import AuthService from "../../../services/AuthService";
 
-const API_URL = "https://fast-ridge-07453.herokuapp.com/api";
+const API_URL = "https://fast-wave-82088.herokuapp.com/api";
 
 const checkAuth = () => {
   return async (dispatch) => {

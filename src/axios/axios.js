@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://fast-ridge-07453.herokuapp.com/api";
+const API_URL = "https://fast-wave-82088.herokuapp.com/api";
 
 const api = axios.create({
   withCredentials: true,

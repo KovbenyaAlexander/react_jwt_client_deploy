@@ -25,6 +25,7 @@ export default function reducer(state = initialState, action) {
 
     case SET_USERS_DATA:
       return { ...state, usersData: action.payload };
+
     default:
       return state;
   }
